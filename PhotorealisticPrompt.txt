@@ -38,4 +38,3 @@ Concept:
 A cat chasing a mouse
 Prompt: 
 a photograph of a cat chasing a mouse in a parisian alley, low angle, epic composition, dynamic, action-packed, ultra detailed, 16k, Nikon d7500, cinematic lighting, 85mm lens  --v 4 --stylize 1000
-
